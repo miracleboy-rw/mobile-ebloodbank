@@ -1,0 +1,6 @@
+{
+  "name": "E-BloodBank",
+  "description": "Sistem Manajemen Donor Darah menghubungkan Pendonor, Palang Merah Indonesia (PMI), dan Rumah Sakit secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
